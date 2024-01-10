@@ -8,7 +8,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I currently want to apply for Fresher Web Development as a Backend Developer.
+- 🔭 I currently want to apply for a Fresher Web Development Job as a Backend Developer.
 - 🌱 I’m passionate about Web Development.
 - 📝 I’m aiming to get a job in the first quarter of 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
