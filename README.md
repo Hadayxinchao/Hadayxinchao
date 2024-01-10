@@ -3,7 +3,6 @@
 [![Hello World, I'm Hha!](assets/header.gif)](https://github.com/Hadayxinchao)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/Hadayxinchao) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ha-bui-923474260/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:smithmerch2301@gmail.com?subject=Hello%20Ha,%20From%20Github)
 
