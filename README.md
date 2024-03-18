@@ -8,9 +8,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I currently want to apply for a Fresher Web Development Job as a Backend Developer.
+- 🔭 I Ruby on Rails Fresher Web Dev in Adamo as a Backend Developer.
 - 🌱 I’m passionate about Web Development.
-- 📝 I’m aiming to get a job in the first quarter of 2024.
+- 📝 I’m aiming to gain more knowledge and experience in the first quarter of 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I read books, play games, and badminton, and sleep with my cat!
 
