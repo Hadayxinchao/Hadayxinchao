@@ -8,7 +8,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I Ruby on Rails Fresher Web Dev in Adamo as a Backend Developer.
+- 🔭 Ruby on Rails Fresher Web Dev in Adamo as a Backend Developer.
 - 🌱 I’m passionate about Web Development.
 - 📝 I’m aiming to gain more knowledge and experience in the first quarter of 2024.
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
@@ -22,7 +22,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Git, HTML5, CSS, JavaScript, Ruby, Python, Atom, Django, Docker](https://skillicons.dev/icons?i=git,html,css,js,ruby,py,atom,django,docker)](https://skillicons.dev)
+[![Git, HTML5, CSS, JavaScript, Ruby, Python, Atom, Django, Docker, Reactjs](https://skillicons.dev/icons?i=git,html,css,js,ruby,py,atom,django,docker,react)](https://skillicons.dev)
 
 
 ## 🏆 My Stats:
