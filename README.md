@@ -8,10 +8,9 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 Ruby on Rails Fresher Web Dev in Adamo as a Backend Developer.
-- 🌱 I’m passionate about Web Development.
-- 📝 I’m aiming to gain more knowledge and experience in the first quarter of 2024.
-- 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- 🔭 Ruby on Rails Junior Web Developer in Adamo Software as a Backend Developer.
+- 🌱 I’m passionate about Web Development and Artificial Intelligence.
+- 📝 I’m aiming to gain more knowledge and experience.
 - ⚡ Fun fact: I read books, play games, and badminton, and sleep with my cat!
 
 <div align="center">
