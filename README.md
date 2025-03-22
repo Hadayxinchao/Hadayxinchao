@@ -8,7 +8,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 Ruby on Rails Junior Web Developer in Adamo Software as a Backend Developer.
+- 🔭 Junior Ruby on Rails Web Developer in Adamo Software.
 - 🌱 I’m passionate about Web Development and Artificial Intelligence.
 - 📝 I’m aiming to gain more knowledge and experience.
 - ⚡ Fun fact: I read books, play games, and badminton, and sleep with my cat!
