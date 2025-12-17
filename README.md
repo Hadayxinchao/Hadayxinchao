@@ -13,8 +13,8 @@
 
 ## 👋 About Me
 
-Backend Developer with nearly 3 years of experience building scalable systems, data-intensive workflows, and AI-assisted backend services.  
-Strong background in **Ruby on Rails**, **RESTful architectures**, and **RAG (Retrieval-Augmented Generation)** pipelines for production-ready AI features.
+Backend Developer with 3 years of experience building scalable systems, data-intensive workflows, and AI-assisted backend services.  
+Strong background in **Ruby on Rails**, **RESTful architectures**, and **MLOps/RAG pipelines** for production-ready AI features.
 
 Currently working at **Adamo Software**, contributing to the Magpie Product Information Management platform, AI chatbot systems, and backend automation workflows used in the global tours & activities industry.
 
@@ -40,9 +40,14 @@ Worked on internal development tools and contributed to performance improvements
 
 ## 🧠 Featured Projects
 
+### 🖼️ End-to-End Image Classifier (MLOps)
+- Production-ready **MLOps pipeline** for image classification  
+- Built with **PyTorch, Hydra, and DVC** for reproducibility  
+- **CI/CD integration** using GitHub Actions & CML for automated model reporting  
+- Experiment tracking with **MLflow & Weights & Biases**
+
 ### 🔐 Password Manager  
-- Secure password manager built with **Rails 8 + Hotwire**  
-- Chrome Extension for autofill  
+- Secure password manager built with **Rails 8 + Hotwire** - Chrome Extension for autofill  
 - Encrypted storage using Active Record Encryption
 
 ### 🌐 Social Network Platform  
@@ -51,8 +56,7 @@ Worked on internal development tools and contributed to performance improvements
 - REST APIs with RSpec tests
 
 ### 🎫 Ticket Booking Application  
-- Asynchronous workflows with **Sidekiq**  
-- Docker-based deployment  
+- Asynchronous workflows with **Sidekiq** - Docker-based deployment  
 - Queue-based architecture for background jobs
 
 ---
@@ -61,17 +65,16 @@ Worked on internal development tools and contributed to performance improvements
 
 ## 💻 Tech Stack
 
-[![Tech Stack](https://skillicons.dev/icons?i=ruby,rails,py,fastapi,js,nodejs,react,postgres,redis,docker,git,aws,gcp)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=ruby,rails,py,fastapi,pytorch,js,nodejs,react,postgres,redis,docker,git,aws,gcp)](https://skillicons.dev)
 
 ---
 
-## 🤖 AI / RAG / LLM Skills
+## 🤖 AI / MLOps / RAG Skills
 
-- LLM integration (OpenAI, local models)  
-- Vector databases & embeddings  
-- RAG pipelines for production systems  
-- Prompt engineering  
-- AI-assisted backend design and architecture  
+- **MLOps & Engineering:** DVC, CML, Hydra, MLflow, W&B  
+- **LLM Integration:** OpenAI, local models, Prompt Engineering  
+- **RAG Systems:** Vector databases, Embeddings, Context Retrieval  
+- **Backend AI:** Designing scalable pipelines for AI features  
 
 ---
 
